@@ -1,0 +1,1 @@
+Design a benchmark for Stream processing systems and evaluate Heron and Spark Stream to draw some insights. Yahoo has already done such comparative study using a benchmark. However, we try use that as a reference and enrich the benchmark further to produce some promising insights.  
